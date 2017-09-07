@@ -1,0 +1,52 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:3:4-31
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:4:4-29
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:3:32-55
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:5:4-42
+	android:targetSdkVersion
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:5:14-40
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:6:4-15:18
+	android:label
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:7:42-74
+	android:hardwareAccelerated
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:7:7-41
+	android:icon
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:6:17-46
+activity#com.deitel.spoton.SpotOn
+ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:8:7-14:18
+	android:screenOrientation
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:9:10-47
+	android:label
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:8:40-72
+	android:name
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:8:17-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:10:10-13:26
+action#android.intent.action.MAIN
+ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:11:13-65
+	android:name
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:11:21-62
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from F:\Android\SpotOnApp\svenka32Hw4\app\src\main\AndroidManifest.xml:12:23-70

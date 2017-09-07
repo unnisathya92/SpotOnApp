@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Counting Game</string>
+    <string name="remainingTime">Remaining Time: </string>
+    <string name="score">Score: </string>
+    <string name="level">Level: </string>
+    <string name="reset_game">Reset Game</string>
+    <string name="game_over">Game Over</string>
+    <string name="game_over_restart">Game Over !!! Game will restart now!</string>
+    <string name="congrats">Congrats</string>
+    <string name="congrats_game">Congrats!!!You have completed the game!! Press OK to start a new game</string>
+
+</resources>

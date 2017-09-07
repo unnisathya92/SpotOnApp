@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\myultrabook\Downloads\SpotOn\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9bc8747ac49b08aba0bd1fa29f0b69e1eeb630f8">
+        <dex dex="C:\Users\myultrabook\Downloads\SpotOn\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_138797cb568d8af86a73d275434289b88644810e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\myultrabook\Downloads\SpotOn\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cde9a7cb8991d678af75aff1019ce9bc85f2ae2a">
+        <dex dex="C:\Users\myultrabook\Downloads\SpotOn\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e88912d1561b27d787e3f960bb79520ad2c6b96d\classes.dex" />
+    </item>
+
+</items>

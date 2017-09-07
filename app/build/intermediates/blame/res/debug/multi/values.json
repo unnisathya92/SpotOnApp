@@ -1,0 +1,354 @@
+[
+    {
+        "outputFile": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 45,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 45,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 111,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 111,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 47,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 47,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 82,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 82,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 41,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 41,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 58,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 58,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 49,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 49,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 41,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 41,
+                        "endOffset": 202
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Android\\SpotOnApp\\SpotOn\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 45,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 45,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 111,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 111,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 47,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 47,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 82,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 82,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 41,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 41,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 58,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 58,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 49,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 49,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 41,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 41,
+                        "endOffset": 202
+                    }
+                }
+            }
+        ]
+    }
+]

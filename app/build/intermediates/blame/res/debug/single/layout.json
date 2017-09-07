@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Android\\SpotOnApp\\SpotOn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\untouched.xml",
+        "source": "F:\\Android\\SpotOnApp\\svenka32Hw4\\app\\src\\main\\res\\layout\\untouched.xml"
+    },
+    {
+        "merged": "F:\\Android\\SpotOnApp\\SpotOn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\untouched.xml",
+        "source": "F:\\Android\\SpotOnApp\\SpotOn\\app\\src\\main\\res\\layout\\untouched.xml"
+    }
+]
